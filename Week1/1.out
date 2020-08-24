@@ -1,11 +1,11 @@
-PS C:\Users\jaide> cd "c:\Users\jaide\" ; if ($?) { gcc demo.c -o demo } ; if ($?) { .\demo }
+PS C:\Users\ruthvik> cd "c:\Users\ruthvik\" ; if ($?) { gcc demo.c -o demo } ; if ($?) { .\demo }
 Enter input string       :aabb
 String accepted
 
-PS C:\Users\jaide> cd "c:\Users\jaide\" ; if ($?) { gcc demo.c -o demo } ; if ($?) { .\demo }
+PS C:\Users\ruthvik> cd "c:\Users\ruthvik\" ; if ($?) { gcc demo.c -o demo } ; if ($?) { .\demo }
 Enter input string       :aaa
 String not accepted
 
-PS C:\Users\jaide> cd "c:\Users\jaide\" ; if ($?) { gcc demo.c -o demo } ; if ($?) { .\demo }
+PS C:\Users\ruthvik> cd "c:\Users\ruthvik\" ; if ($?) { gcc demo.c -o demo } ; if ($?) { .\demo }
 Enter input string       :abcd
 Invalid token
